@@ -1,4 +1,4 @@
-### Hi there Geeks 👋
+### Hello ,Geeks 👋
 
 I am Mrigank Tandon. I consider myself as a smart worker and determined team player. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, MERN, Javascript and its frameworks.
 
